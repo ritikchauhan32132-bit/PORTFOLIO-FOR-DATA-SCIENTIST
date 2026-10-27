@@ -1,0 +1,400 @@
+Student Name: RITIK KUMAR 
+Roll No: 1
+Course: BCA
+______________________________
+Student Name: AMAN KUMAR 
+Roll No: 2
+Course: BCA
+______________________________
+Student Name: ROHIT SHARMA 
+Roll No: 3
+Course: BCA
+______________________________
+Student Name: PRIYA VERMA 
+Roll No: 4
+Course: BCA
+______________________________
+Student Name: ANJALI SINGH 
+Roll No: 5
+Course: BCA
+______________________________
+Student Name: RAHUL YADAV 
+Roll No: 6
+Course: BCA
+______________________________
+Student Name: NEHA KUMARI 
+Roll No: 7
+Course: BCA
+______________________________
+Student Name: VIKAS SAHU 
+Roll No: 8
+Course: BCA
+______________________________
+Student Name: POOJA PATEL 
+Roll No: 9
+Course: BCA
+______________________________
+Student Name: KARAN GUPTA 
+Roll No: 10
+Course: BCA
+______________________________
+Student Name: SONU KUMAR 
+Roll No: 11
+Course: BCA
+______________________________
+Student Name: SIMRAN KAUR 
+Roll No: 12
+Course: BCA
+______________________________
+Student Name: DEEPAK VERMA 
+Roll No: 13
+Course: BCA
+______________________________
+Student Name: SNEHA SHARMA 
+Roll No: 14
+Course: BCA
+______________________________
+Student Name: ARJUN SINGH 
+Roll No: 15
+Course: BCA
+______________________________
+Student Name: NISHA YADAV 
+Roll No: 16
+Course: BCA
+______________________________
+Student Name: MOHIT KUMAR 
+Roll No: 17
+Course: BCA
+______________________________
+Student Name: KAVITA SAHU 
+Roll No: 18
+Course: BCA
+______________________________
+Student Name: ADITYA PATEL 
+Roll No: 19
+Course: BCA
+______________________________
+Student Name: RANI GUPTA 
+Roll No: 20
+Course: BCA
+______________________________
+Student Name: VIVEK SHARMA 
+Roll No: 21
+Course: BCA
+______________________________
+Student Name: PRIYANSHU KUMAR 
+Roll No: 22
+Course: BCA
+______________________________
+Student Name: TANU VERMA 
+Roll No: 23
+Course: BCA
+______________________________
+Student Name: MANISH YADAV 
+Roll No: 24
+Course: BCA
+______________________________
+Student Name: DIVYA SINGH 
+Roll No: 25
+Course: BCA
+______________________________
+Student Name: ABHISHEK SAHU 
+Roll No: 26
+Course: BCA
+______________________________
+Student Name: KIRAN PATEL 
+Roll No: 27
+Course: BCA
+______________________________
+Student Name: GAURAV GUPTA 
+Roll No: 28
+Course: BCA
+______________________________
+Student Name: SONALI KUMARI 
+Roll No: 29
+Course: BCA
+______________________________
+Student Name: NITIN SHARMA 
+Roll No: 30
+Course: BCA
+______________________________
+Student Name: SACHIN VERMA 
+Roll No: 31
+Course: BCA
+______________________________
+Student Name: RUPALI YADAV 
+Roll No: 32
+Course: BCA
+______________________________
+Student Name: ASHISH KUMAR 
+Roll No: 33
+Course: BCA
+______________________________
+Student Name: JYOTI SAHU 
+Roll No: 34
+Course: BCA
+______________________________
+Student Name: HARSH PATEL 
+Roll No: 35
+Course: BCA
+______________________________
+Student Name: PALLAVI GUPTA 
+Roll No: 36
+Course: BCA
+______________________________
+Student Name: RAJESH SHARMA 
+Roll No: 37
+Course: BCA
+______________________________
+Student Name: KOMAL VERMA 
+Roll No: 38
+Course: BCA
+______________________________
+Student Name: ANKIT YADAV 
+Roll No: 39
+Course: BCA
+______________________________
+Student Name: PAYAL SINGH 
+Roll No: 40
+Course: BCA
+______________________________
+Student Name: SUMIT KUMAR 
+Roll No: 41
+Course: BCA
+______________________________
+Student Name: MUSKAN SAHU 
+Roll No: 42
+Course: BCA
+______________________________
+Student Name: ROHINI PATEL 
+Roll No: 43
+Course: BCA
+______________________________
+Student Name: YASH GUPTA 
+Roll No: 44
+Course: BCA
+______________________________
+Student Name: TUSHAR SHARMA 
+Roll No: 45
+Course: BCA
+______________________________
+Student Name: MADHU VERMA 
+Roll No: 46
+Course: BCA
+______________________________
+Student Name: RAVI YADAV 
+Roll No: 47
+Course: BCA
+______________________________
+Student Name: SHREYA SINGH 
+Roll No: 48
+Course: BCA
+______________________________
+Student Name: KUNAL KUMAR 
+Roll No: 49
+Course: BCA
+______________________________
+Student Name: MEENA SAHU 
+Roll No: 50
+Course: BCA
+______________________________
+Student Name: SANDEEP PATEL 
+Roll No: 51
+Course: BCA
+______________________________
+Student Name: AARTI GUPTA 
+Roll No: 52
+Course: BCA
+______________________________
+Student Name: LOKESH SHARMA 
+Roll No: 53
+Course: BCA
+______________________________
+Student Name: NANDINI VERMA 
+Roll No: 54
+Course: BCA
+______________________________
+Student Name: RAJ KUMAR 
+Roll No: 55
+Course: BCA
+______________________________
+Student Name: ISHITA YADAV 
+Roll No: 56
+Course: BCA
+______________________________
+Student Name: PRADEEP SINGH 
+Roll No: 57
+Course: BCA
+______________________________
+Student Name: SONAM KUMARI 
+Roll No: 58
+Course: BCA
+______________________________
+Student Name: AKASH SAHU 
+Roll No: 59
+Course: BCA
+______________________________
+Student Name: TARUN PATEL 
+Roll No: 60
+Course: BCA
+______________________________
+Student Name: MONIKA GUPTA 
+Roll No: 61
+Course: BCA
+______________________________
+Student Name: GAURAV SHARMA 
+Roll No: 62
+Course: BCA
+______________________________
+Student Name: CHANDAN VERMA 
+Roll No: 63
+Course: BCA
+______________________________
+Student Name: REENA YADAV 
+Roll No: 64
+Course: BCA
+______________________________
+Student Name: VISHAL SINGH 
+Roll No: 65
+Course: BCA
+______________________________
+Student Name: BHAVNA KUMAR 
+Roll No: 66
+Course: BCA
+______________________________
+Student Name: DINESH SAHU 
+Roll No: 67
+Course: BCA
+______________________________
+Student Name: KUSUM PATEL 
+Roll No: 68
+Course: BCA
+______________________________
+Student Name: AMANDEEP GUPTA 
+Roll No: 69
+Course: BCA
+______________________________
+Student Name: NAVEEN SHARMA 
+Roll No: 70
+Course: BCA
+______________________________
+Student Name: LALIT VERMA 
+Roll No: 71
+Course: BCA
+______________________________
+Student Name: SUNITA YADAV 
+Roll No: 72
+Course: BCA
+______________________________
+Student Name: RAHUL SINGH 
+Roll No: 73
+Course: BCA
+______________________________
+Student Name: RASHMI KUMARI 
+Roll No: 74
+Course: BCA
+______________________________
+Student Name: PRAVEEN SAHU 
+Roll No: 75
+Course: BCA
+______________________________
+Student Name: NIKHIL PATEL 
+Roll No: 76
+Course: BCA
+______________________________
+Student Name: SEEMA GUPTA 
+Roll No: 77
+Course: BCA
+______________________________
+Student Name: JITENDRA SHARMA 
+Roll No: 78
+Course: BCA
+______________________________
+Student Name: TINA VERMA 
+Roll No: 79
+Course: BCA
+______________________________
+Student Name: PANKAJ YADAV 
+Roll No: 80
+Course: BCA
+______________________________
+Student Name: SAKSHI SINGH 
+Roll No: 81
+Course: BCA
+______________________________
+Student Name: ROHIT KUMAR 
+Roll No: 82
+Course: BCA
+______________________________
+Student Name: ALKA SAHU 
+Roll No: 83
+Course: BCA
+______________________________
+Student Name: VIRENDER PATEL 
+Roll No: 84
+Course: BCA
+______________________________
+Student Name: SHIVANI GUPTA 
+Roll No: 85
+Course: BCA
+______________________________
+Student Name: KAMLESH SHARMA 
+Roll No: 86
+Course: BCA
+______________________________
+Student Name: PREETI VERMA 
+Roll No: 87
+Course: BCA
+______________________________
+Student Name: AJAY YADAV 
+Roll No: 88
+Course: BCA
+______________________________
+Student Name: TARUN SINGH 
+Roll No: 89
+Course: BCA
+______________________________
+Student Name: NAMRATA KUMARI 
+Roll No: 90
+Course: BCA
+______________________________
+Student Name: DEVENDRA SAHU 
+Roll No: 91
+Course: BCA
+______________________________
+Student Name: RITU PATEL 
+Roll No: 92
+Course: BCA
+______________________________
+Student Name: RAJAT GUPTA 
+Roll No: 93
+Course: BCA
+______________________________
+Student Name: NARESH SHARMA 
+Roll No: 94
+Course: BCA
+______________________________
+Student Name: KIRTI VERMA 
+Roll No: 95
+Course: BCA
+______________________________
+Student Name: OM PRAKASH YADAV 
+Roll No: 96
+Course: BCA
+______________________________
+Student Name: ANKITA SINGH 
+Roll No: 97
+Course: BCA
+______________________________
+Student Name: SURAJ KUMAR 
+Roll No: 98
+Course: BCA
+______________________________
+Student Name: MAHESH SAHU 
+Roll No: 99
+Course: BCA
+______________________________
+Student Name: PRIYA PATEL 
+Roll No: 100
+Course: BCA
+______________________________

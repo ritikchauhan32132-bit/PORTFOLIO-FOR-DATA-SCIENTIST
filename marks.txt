@@ -1,0 +1,11 @@
+Roll No: 1 
+Name: RITIK KUMAR 
+physics : 89 
+chemistry : 89 
+math : 98 
+hindi : 78 
+english : 87 
+Total Marks: 441 
+Percentage : 88.2%
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+ 
